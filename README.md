@@ -6,6 +6,19 @@
 <Br>
 <Br>
 
+## 
+
+[![Github Badge](https://img.shields.io/badge/-yelunar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yelunar/)](https://www.github.com/yelunar/) 
+[![Gmail Badge](https://img.shields.io/badge/-yeajin7933@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=yeajin7933@gmail.com)](mailto:yeajin7933@gmail.com) 
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://kimyazan.tistory.com/)
+![](https://visitor-badge.glitch.me/badge?page_id=yelunar)
+
+
+
+---
+
+
+
 ## 👩🏻‍💻 About me
 
 - 🌱 저는 많은 것을 배우는 Junior Engineer예요.
@@ -20,8 +33,6 @@
 
 - 📝 꾸준히 성장하는 개발자가 되기위해 '1일 1커밋 운동'을 하고 있어요.
 
-
-
 ### 📊 My GitHub Stats!
 
 <Br>
@@ -33,5 +44,3 @@
 </p>
 
 <Br>
-
-
