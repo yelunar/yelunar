@@ -16,7 +16,7 @@
 
 - 🎓 새로운 기술을 배우는 것을 좋아하는 개발자입니다.
 
-- 🔭 저는 현재 <a href="">SSAFY 9기 교육생</a>이에요.
+- 🔭 저는 현재 <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">SSAFY 9기 교육생</a>이에요.
 
 - 📝 꾸준히 성장하는 개발자가 되기위해 '1일 1커밋 운동'을 하고 있어요.
 
