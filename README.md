@@ -21,10 +21,8 @@
 - 🔭 저는 현재 <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">SSAFY 9기 교육생</a>이에요.
 
 - 📝 꾸준히 성장하는 개발자가 되기위해 '1일 1커밋 운동'을 하고 있어요.
-  
-  
 
-<h2 align="center">📚 Tech Stack 📚</h2> <p align="center">
+<h2 align="center">📚 Tech Stack 📚</h3> <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>&nbsp
@@ -42,7 +40,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 
 <br>
-<h2 align="center">📊 My GitHub Stats 📊 </h2>
+<h2 align="center">📊 My GitHub Stats 📊 </h3>
 
 <p align="center">
 <a href="https://github.com/yelunar/">
