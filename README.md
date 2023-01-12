@@ -6,8 +6,6 @@
 <Br>
 <Br>
 
-# Hi there 👋
-
 [![Github Badge](https://img.shields.io/badge/-yelunar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yelunar/)](https://www.github.com/yelunar/) 
 [![Gmail Badge](https://img.shields.io/badge/-yeajin7933@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=yeajin7933@gmail.com)](mailto:yeajin7933@gmail.com) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://kimyazan.tistory.com/)
@@ -42,3 +40,5 @@
 </p>
 
 <Br>
+
+
