@@ -1,7 +1,4 @@
-<Br>
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Yejin+Kim+%F0%9F%91%8B;Back-End+Engineer;Full-Stack+Developer;" alt="Headline" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!%20I'm%20Yejin&fontSize=90" />
 
 <Br>
 <Br>
@@ -10,10 +7,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-yeajin7933@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=yeajin7933@gmail.com)](mailto:yeajin7933@gmail.com) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://kimyazan.tistory.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=yelunar)
-
-
-
-
 
 ## 👩🏻‍💻 About me
 
@@ -40,5 +33,3 @@
 </p>
 
 <Br>
-
-
