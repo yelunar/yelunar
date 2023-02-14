@@ -7,7 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-yeajin7933@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=yeajin7933@gmail.com)](mailto:yeajin7933@gmail.com) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://kimyazan.tistory.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=yelunar)
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyelunar%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  
 ## 👩🏻‍💻 About me
 
 - 🌱 저는 많은 것을 배우는 Junior Engineer입니다.
