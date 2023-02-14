@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!%20I'm%20Yejin&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&animation=fadeIn$section=header&text=Hello!%20I'm%20Yejin&fontSize=90" />
 
 <Br>
 <Br>
