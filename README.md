@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&animation=fadeIn$section=header&text=Hello!%20I'm%20Yejin&fontSize=90" />
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!%20I'm%20Yejin&fontAlign=50&fontAlignY=40&color=auto)
 
-<Br>
 <Br>
 
 [![Github Badge](https://img.shields.io/badge/-yelunar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yelunar/)](https://www.github.com/yelunar/) 
@@ -21,8 +20,8 @@
 
 - 🔭 저는 현재 <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">SSAFY 9기 교육생</a>이에요.
 
-- 📝 꾸준히 성장하는 개발자가 되기위해 '1일 1커밋 운동'을 하고 있어요.
-
+- 📝 꾸준히 성장하는 개발자가 되기위해 '1일 1커밋 운동'을 하고 있어요. (Since 2022.11.18 ~ )
+<Br>
 <h3 align="center">📚 Tech Stack 📚</h3> <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -40,15 +39,5 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 
-<br>
-<h3 align="center">📊 My GitHub Stats 📊 </h3>
-<p align="center">
-<a href="https://github.com/yelunar/">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yelunar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yelunar&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</a>
-</p>
-<br>
 
 <Br>
