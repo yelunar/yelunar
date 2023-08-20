@@ -17,9 +17,9 @@
 
 - 🎓 새로운 기술을 배우는 것을 좋아하는 개발자입니다.
 
-- 🔭 저는 현재 <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">SSAFY 9기 교육생</a>이에요.
+- 🔭 저는 <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">SSAFY 9기</a> 에서 공부했어요.
 
-- 📝 꾸준히 성장하는 개발자가 되기위해 '1일 1커밋 운동'을 하고 있어요. (Since 2022.11.18 ~ )
+- 📝 꾸준히 성장하는 개발자가 되기위해 '1일 1커밋 운동'을 했어요. (Since 2022.11.18 ~ 2023.08.16)
 <Br>
 <h3 align="center">📚 Tech Stack 📚</h3> <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>&nbsp
